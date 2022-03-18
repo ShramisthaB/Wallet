@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.tw.rupeeTest.MoneyTest" tests="7" skipped="0" failures="0" errors="0" timestamp="2022-03-16T19:24:53" hostname="Shramisthas-MacBook-Pro.local" time="0.03">
+  <properties/>
+  <testcase name="shouldReturnTrueWhenOneRupeeIsNotSameAsAnotherRupee()" classname="com.tw.rupeeTest.MoneyTest" time="0.016"/>
+  <testcase name="shouldCheckWhetherTenRupeeIsNotEqualToNull()" classname="com.tw.rupeeTest.MoneyTest" time="0.001"/>
+  <testcase name="shouldReturnTwoRupeeWhenOneRupeeIsAddedToAnotherOneRupee()" classname="com.tw.rupeeTest.MoneyTest" time="0.002"/>
+  <testcase name="shouldReturnFalseWhenValueOfOneRupeeIsNotEqualToValueOfAnotherRupee()" classname="com.tw.rupeeTest.MoneyTest" time="0.001"/>
+  <testcase name="shouldReturnTrueWhenValueOfOneRupeeIsEqualToValueOfAnotherOneRupee()" classname="com.tw.rupeeTest.MoneyTest" time="0.005"/>
+  <testcase name="shouldReturnTrueWhenOneDollarIsComparedWithSeventyFiveRupees()" classname="com.tw.rupeeTest.MoneyTest" time="0.001"/>
+  <testcase name="shouldCheckWhetherTenRupeeIsOfTypeRupee()" classname="com.tw.rupeeTest.MoneyTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
